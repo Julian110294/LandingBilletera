@@ -1,0 +1,29 @@
+.navbar
+{
+    box-shadow: 2px 2px 5px #000;
+    opacity: .9;
+    padding-bottom: 40px;
+}
+
+
+.navbar .nav-item .nav-link
+{
+    color: #fff;
+}
+
+
+.main-header
+{
+    background: url(../img/bg2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 470px;
+}
+
+
+/* Imagen de Fondo Oscura */
+
+.background-overlay
+{
+    background: rgba(83, 92, 104, .7);
+}
